@@ -109,7 +109,7 @@
 		 {
             "name":"iPhone 6",
             "author":"Vuma Tech",
-            "url":"RAW Link",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone6.png",
             "collections":"Apple",
             "downloadable":"false"
         },
@@ -186,7 +186,7 @@
 		 {
             "name":"Mate 10",
             "author":"Vuma Tech",
-            "url":"https://github.com/ajemvuma/vumatech/blob/master/huaweimate10.png",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/huaweimate10.png",
             "collections":"Huawei",
             "downloadable":"false"
         },
@@ -222,7 +222,7 @@
             "name":"LG G6",
             "author":"Vuma Tech",
             "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/lgg6.png",
-            "collections":"Vuma Tech",
+            "collections":"LG",
             "downloadable":"false"
         },
 		 {
@@ -242,14 +242,14 @@
 		 {
             "name":"Xperia XZ",
             "author":"Vuma Tech",
-            "url":"https://github.com/ajemvuma/vumatech/blob/master/xperiaxz.png",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xperiaxz.png",
             "collections":"Sony",
             "downloadable":"false"
         },
 		 {
             "name":"HTC",
             "author":"Vuma Tech",
-            "url":"RAW Link",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/htc.png",
             "collections":"HTC",
             "downloadable":"false"
         },
@@ -277,14 +277,14 @@
 		 {
             "name":"OnePlus 5T",
             "author":"Vuma Tech",
-            "url":"RAW Link",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/oneplus5t.png",
             "collections":"OnePlus",
             "downloadable":"false"
         },
 		 {
-            "name":"OnePlus",
+            "name":"OnePlus 5",
             "author":"Vuma Tech",
-            "url":"RAW Link",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/oneplus5.png",
             "collections":"OnePlus",
             "downloadable":"false"
         },
