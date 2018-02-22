@@ -1,0 +1,335 @@
+{
+    "Collections":[
+        {
+            "name":"Apple",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/Apple.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/Apple.png"
+        },
+        {
+            "name":"Samsung",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/Samsung.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/Samsung.png"
+        },
+		  {
+            "name":"Huawei",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/huawei.pngk",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/huawei.png"
+        },
+		  {
+            "name":"LG",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/lg.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/lg.png"
+        },
+		  {
+            "name":"HTC",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/htc.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/htc.png"
+        },
+		  {
+            "name":"Sony",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/sony.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/sony.png"
+        },
+		  {
+            "name":"OnePlus",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/oneplus.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/oneplus.png"
+        },
+		  {
+            "name":"Xiaomi",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xiaomi.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xiaomi.png"
+        },
+		  {
+            "name":"Google",
+            "preview_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/pixel.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/pixel.png"
+        }
+		
+    ],
+    
+	
+	"Wallpapers":[
+        {
+            "name":"Apple",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/Apple.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+        {
+            "name":"iPhone 8 Plus",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone8plus.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+        {
+            "name":"iPhone 8",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone8.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 7 Plus",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone7plus.png",
+            "collections":"Apple",
+            "downloadable":false"
+        },
+		 {
+            "name":"iPhone 7",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone%207.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 6s Plus",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphon6splus.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 6s",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone6s.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 6 Plus",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone6plus.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 6",
+            "author":"Vuma Tech",
+            "url":"RAW Link",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 5SE",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone5se.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"iPhone 5s",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/iphone5s.png",
+            "collections":"Apple",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Samsung",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/Samsung.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Galaxy Note 8",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/samsunggalaxynote8.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Galaxy S8 Plus",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/samsunggalaxys8plus.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Galaxy S8",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/galaxys8.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Galaxy S7 Edge",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/s7edge.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Galaxy S7",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/s7.png",
+            "collections":"Samsung",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Huawei",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/huawei.png",
+            "collections":"Huawei",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Mate 10 Pro",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/huaweimate10.png",
+            "collections":"Huawei",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Mate 10",
+            "author":"Vuma Tech",
+            "url":"https://github.com/ajemvuma/vumatech/blob/master/huaweimate10.png",
+            "collections":"Huawei",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Mate 9",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/mate9.png",
+            "collections":"Huawei",
+            "downloadable":"false"
+        },
+		 {
+            "name":"P10",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/huaweip10.png",
+            "collections":"Huawei",
+            "downloadable":"false"
+        },
+		 {
+            "name":"LG",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/lg.png",
+            "collections":"LG",
+            "downloadable":"false"
+        },
+		 {
+            "name":"LG V30",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/lgv30.png",
+            "collections":"LG",
+            "downloadable":"false"
+        },
+		 {
+            "name":"LG G6",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/lgg6.png",
+            "collections":"Vuma Tech",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Sony",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/sony.png",
+            "collections":"Sony",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Xperia XZ Premium",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xperiaxzpremium.png",
+            "collections":"Sony",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Xperia XZ",
+            "author":"Vuma Tech",
+            "url":"https://github.com/ajemvuma/vumatech/blob/master/xperiaxz.png",
+            "collections":"Sony",
+            "downloadable":"false"
+        },
+		 {
+            "name":"HTC",
+            "author":"Vuma Tech",
+            "url":"RAW Link",
+            "collections":"HTC",
+            "downloadable":"false"
+        },
+		 {
+            "name":"HTC U11",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/htcuu11.png",
+            "collections":"HTC",
+            "downloadable":"false"
+        },
+		 {
+            "name":"HTC 10",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/htc10.png",
+            "collections":"HTC",
+            "downloadable":"false"
+        },
+		 {
+            "name":"OnePlus",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/oneplus.png",
+            "collections":"OnePlus",
+            "downloadable":"false"
+        },
+		 {
+            "name":"OnePlus 5T",
+            "author":"Vuma Tech",
+            "url":"RAW Link",
+            "collections":"OnePlus",
+            "downloadable":"false"
+        },
+		 {
+            "name":"OnePlus",
+            "author":"Vuma Tech",
+            "url":"RAW Link",
+            "collections":"OnePlus",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Xiaomi",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xiaomi.png",
+            "collections":"Xiaomi",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Mi Mix2",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xiaomimimix2.png",
+            "collections":"Xiaomi",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Mi Mix",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/xiaomimimix.png",
+            "collections":"Xiaomi",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Google",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/pixel.png",
+            "collections":"Google",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Pixel 2 XL",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/pixel2xl.png",
+            "collections":"Google",
+            "downloadable":"false"
+        },
+		 {
+            "name":"Pixel 2",
+            "author":"Vuma Tech",
+            "url":"https://raw.githubusercontent.com/ajemvuma/vumatech/master/pixel2.png",
+            "collections":"Google",
+            "downloadable":"false"
+        }
+		
+    ]
+}
